@@ -14,7 +14,7 @@ function Header() {
   return (
     <section className="h-wrapper">
       <div className="flexCenter paddings innerWidth h-container">
-        <img src="logo.jpg" alt="logo" width={100} />
+        <img src="logo2.png" alt="logo" width={100} />
 
         <OutsideClickHandler
           onOutsideClick={() => {

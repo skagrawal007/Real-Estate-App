@@ -32,7 +32,7 @@ function Extra() {
             </span>
           </div>
           <div className="flexCenter search-bar">
-            <HiLocationMarker color="blue" size={25}></HiLocationMarker>
+            <HiLocationMarker color="red" size={25}></HiLocationMarker>
             <input type="text" />
             <button className="button">Search</button>
           </div>

@@ -26,7 +26,7 @@
 .blueCircle {
   height: 4rem;
   width: 4rem;
-  background-color: blue;
+  background-color: green;
   border-radius: 999px;
   position: absolute;
   right: 27%;
@@ -55,7 +55,7 @@
 }
 
 .stat > :nth-child(1) > :last-child {
-  color: orange;
+  color: gold;
 }
 
 .image-container {
